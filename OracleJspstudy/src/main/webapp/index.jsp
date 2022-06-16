@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>메인 페이지 입니다.</h1>
+	<h1>메인 페이지 입니다.1111111</h1>
 	<a href="<%=request.getContextPath() %>/member/memberJoin.do">회원가입하기</a>
 	<a href="<%=request.getContextPath() %>/member/memberList.do">
 		<!-- 상대경로 : 자기 위치에서 memberList.jsp로 이동한다 -->회원 목록가기
