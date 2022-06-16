@@ -1,0 +1,49 @@
+html, body {
+  text-align: center;
+  margin:0;
+  padding:0;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+header{
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  background-color: white;
+  z-index: 1000;
+}
+header h1{
+  margin: 0px;
+  background-color: bisque;
+}
+header img{
+  margin: 0px;
+}
+section{
+    border: 1px solid black;
+    padding: 30px;
+    position: relative;
+    margin: 30px;
+    margin-top: 200px;
+}
+/*이하 수정 필요*/
+.home {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  background-color: white;
+  z-index: 1000;
+}
+.home h1 {
+  margin: 0px;
+  background-color: bisque;
+}
+.home img {
+  margin: 0px;
+}
+.wrap {
+  border: 1px solid black;
+  padding: 30px;
+  position: relative;
+  margin: 30px;
+  margin-top: 200px;
+}
