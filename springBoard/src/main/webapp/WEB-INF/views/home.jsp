@@ -16,6 +16,7 @@
 <P>  The time on the server is ${serverTime}. </P>
 <%= data %>
 
+<h1>안녕</h1>
 <a href="sample1.do">sample1.do</a> |
 <a href="sample2.do">sample2.do</a> |
 <br>

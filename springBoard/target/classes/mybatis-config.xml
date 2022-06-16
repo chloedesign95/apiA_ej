@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0/EN"
+				"http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+<!-- 0616  10.resources에 mappers와 mybatis-config.xml 넣기-->
+	<typeAliases>
+		<!-- ㅡmapper에서 사용할 vo의 별칭을 등록해두는 곳 -->
+        <!-- <typeAlias type="edu.study.vo.BoardVO" alias="boardVO"/> -->
+        
+        <!--  0616  회원가입하기 21. -->
+        <typeAlias type="edu.board.vo.UserVo" alias="userVO" />  
+        
+    </typeAliases>
+
+</configuration>
